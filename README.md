@@ -5,9 +5,9 @@ The website allows users to enter their name, answer multiple-choice questions, 
 
 ### Features
 
-User-friendly interface with Materialize CSS,
-Name submission and session storage,
-Multiple-choice quiz with interactive selection,
+User-friendly interface with Materialize CSS.
+Name submission and session storage.
+Multiple-choice quiz with interactive selection.
 Score calculation and final results display.
 
 ### File Structure
@@ -26,10 +26,10 @@ Answer the multiple-choice questions in quiz.html.
 Your final score will be displayed in final.html.
 
 ### Dependencies
-Materialize CSS
-Google Material Icons
+Materialize CSS.
+Google Material Icons.
 
 ### Future Enhancements
-Timer for each question
-Dynamic question loading from an external JSON file
-High score leaderboard
+Timer for each question.
+Dynamic question loading from an external JSON file.
+High score leaderboard.
