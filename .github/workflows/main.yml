@@ -1,0 +1,18 @@
+name: Run CMD Script
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  run-cmd:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run CMD Script
+        run: script.cmd
+        shell: cmd
